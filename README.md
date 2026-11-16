@@ -16,15 +16,12 @@ Moje miejsce w sieci to projekt, który rozwijam samodzielnie od strony technicz
 
 ---
 
-### 🛠️ Umiejętności i Narzędzia
+### 🛠️ Umiejętności
 
 **Medycyna & Zdrowie:**
 `Dietetyka Kliniczna` `Psychodietetyka` `Edukacja Żywieniowa` `Wsparcie w chorobach GI`
 
-**Tech, Narzędzia & Design:**
-![React](https://img.shields.io/badge/-ReactTS-61DAFB?logo=react&logoColor=white&style=flat-square) 
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square) 
-![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white&style=flat-square)
+
 
 ---
 
